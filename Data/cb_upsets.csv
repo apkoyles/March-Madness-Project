@@ -1,0 +1,226 @@
+"","Year","Round","Seed1","Score1","Team1","Team2","Score2","Seed2"
+"1",1985,1,5,58,"Washington","Kentucky",65,12
+"2",1985,1,6,75,"Tulsa","UTEP",79,11
+"3",1985,1,6,53,"Texas Tech","Boston College",55,11
+"4",1985,1,4,55,"LSU","Navy",78,13
+"5",1985,1,6,58,"Purdue","Auburn",59,11
+"6",1986,1,6,87,"Purdue","LSU",94,11
+"7",1986,1,7,62,"Virginia Tech","Villanova",71,10
+"8",1986,1,3,79,"Indiana","Cleveland St",83,14
+"9",1986,1,5,68,"Virginia","DePaul",72,12
+"10",1986,1,3,83,"Notre Dame","Arkansas Little Rock",90,14
+"11",1987,1,5,60,"Virginia","Wyoming",64,12
+"12",1987,1,4,69,"Missouri","Xavier",70,13
+"13",1987,1,7,79,"Georgia Tech","LSU",85,10
+"14",1987,1,3,67,"Illinois","Austin Peay",68,14
+"15",1987,1,4,60,"Clemson","Southwest Missouri St",65,13
+"16",1987,1,7,62,"West Virginia","Western Kentucky",64,10
+"17",1988,1,3,75,"NC State","Murray St",78,14
+"18",1988,1,4,69,"Indiana","Richmond",72,13
+"19",1988,1,6,80,"Missouri","Rhode Island",87,11
+"20",1988,1,7,115,"Wyoming","Loyola Marymount",119,10
+"21",1989,1,6,70,"Georgia Tech","Texas",76,11
+"22",1989,1,7,46,"Florida","Colorado St",68,10
+"23",1989,1,4,83,"Florida St","Middle Tennessee St",97,13
+"24",1989,1,6,84,"Alabama","South Alabama",86,11
+"25",1989,1,3,78,"Stanford","Siena",80,14
+"26",1989,1,6,75,"Kansas St","Minnesota",86,11
+"27",1989,1,5,63,"Memphis","DePaul",66,12
+"28",1989,1,6,90,"Oregon St","Evansville",94,11
+"29",1990,1,3,71,"Missouri","Northern Iowa",74,14
+"30",1990,1,5,53,"Oregon St","Ball St",54,12
+"31",1990,1,6,92,"New Mexico St","Loyola Marymount",111,11
+"32",1990,1,5,86,"Illinois","Dayton",88,12
+"33",1990,1,7,88,"Georgia","Texas",100,10
+"34",1991,1,6,56,"New Mexico St","Creighton",64,11
+"35",1991,1,7,48,"Virginia","BYU",61,10
+"36",1991,1,3,84,"Nebraska","Xavier",89,14
+"37",1991,1,6,62,"LSU","Connecticut",79,11
+"38",1991,1,2,69,"Syracuse","Richmond",73,15
+"39",1991,1,4,69,"UCLA","Penn St",74,13
+"40",1991,1,5,56,"Mississippi St","Eastern Michigan",76,12
+"41",1991,1,7,63,"Purdue","Temple",80,10
+"42",1992,1,3,80,"Arizona","East Tennessee St",87,14
+"43",1992,1,7,57,"St Johns","Tulane",61,10
+"44",1992,1,7,74,"Charlotte","Iowa St",76,10
+"45",1992,1,4,83,"Oklahoma","Louisiana Lafayette",87,13
+"46",1992,1,5,73,"DePaul","New Mexico St",81,12
+"47",1993,1,6,53,"Kansas St","Tulane",55,11
+"48",1993,1,2,61,"Arizona","Santa Clara",64,15
+"49",1993,1,4,78,"Georgia Tech","Southern",93,13
+"50",1993,1,5,68,"New Mexico","George Washington",82,12
+"51",1994,1,5,57,"California","Wisconsin Green Bay",61,12
+"52",1994,1,5,102,"UCLA","Tulsa",112,12
+"53",1994,1,7,66,"St Louis","Maryland",74,10
+"54",1994,1,6,80,"Nebraska","Pennsylvania",90,11
+"55",1994,1,7,46,"UAB","George Washington",51,10
+"56",1995,1,5,62,"Arizona","Miami Ohio",71,12
+"57",1995,1,3,72,"Michigan St","Weber St",79,14
+"58",1995,1,4,67,"Oklahoma","Manhattan",77,13
+"59",1995,1,3,81,"Villanova","Old Dominion",89,14
+"60",1995,1,7,68,"Charlotte","Stanford",70,10
+"61",1995,1,6,73,"Oregon","Texas",90,11
+"62",1996,1,4,41,"UCLA","Princeton",43,13
+"63",1996,1,6,51,"Indiana","Boston College",64,11
+"64",1996,1,5,63,"Memphis","Drexel",75,12
+"65",1996,1,7,79,"Maryland","Santa Clara",91,10
+"66",1996,1,5,80,"Penn St","Arkansas",86,12
+"67",1996,1,7,76,"Michigan","Texas",80,10
+"68",1997,1,2,65,"South Carolina","Coppin St",78,15
+"69",1997,1,7,58,"Wisconsin","Texas",71,10
+"70",1997,1,3,70,"Georgia","Chattanooga",73,14
+"71",1997,1,5,66,"Maryland","College of Charleston",75,12
+"72",1997,1,7,59,"Marquette","Providence",81,10
+"73",1998,1,3,61,"South Carolina","Richmond",62,14
+"74",1998,1,6,68,"Xavier","Washington",69,11
+"75",1998,1,7,52,"Temple","West Virginia",82,10
+"76",1998,1,4,69,"Ole Miss","Valparaiso",70,13
+"77",1998,1,5,87,"TCU","Florida St",96,12
+"78",1998,1,6,72,"Clemson","Western Michigan",75,11
+"79",1998,1,7,64,"St Johns","Detroit",66,10
+"80",1998,1,7,46,"Massachusetts","St Louis",51,10
+"81",1999,1,5,32,"Wisconsin","Southwest Missouri St",43,12
+"82",1999,1,7,54,"Texas","Purdue",58,10
+"83",1999,1,4,60,"Arizona","Oklahoma",61,13
+"84",1999,1,7,58,"Washington","Miami Ohio",59,10
+"85",1999,1,5,53,"UCLA","Detroit",56,12
+"86",1999,1,7,58,"Louisville","Creighton",62,10
+"87",1999,1,3,74,"North Carolina","Weber St",76,14
+"88",1999,1,7,63,"Minnesota","Gonzaga",75,10
+"89",2000,1,7,66,"Louisville","Gonzaga",77,10
+"90",2000,1,6,57,"Indiana","Pepperdine",77,11
+"91",2000,1,7,71,"Oregon","Seton Hall",72,10
+"92",2001,1,7,63,"Wake Forest","Butler",79,10
+"93",2001,1,4,68,"Oklahoma","Indiana St",70,13
+"94",2001,1,5,85,"Virginia","Gonzaga",86,12
+"95",2001,1,6,65,"Texas","Temple",79,11
+"96",2001,1,5,68,"Ohio St","Utah St",77,12
+"97",2001,1,2,57,"Iowa St","Hampton",58,15
+"98",2001,1,4,73,"Indiana","Kent St",77,13
+"99",2001,1,6,49,"Wisconsin","Georgia St",50,11
+"100",2001,1,7,61,"Arkansas","Georgetown",63,10
+"101",2002,1,4,89,"USC","UNC Wilmington",93,13
+"102",2002,1,7,61,"Oklahoma St","Kent St",69,10
+"103",2002,1,5,80,"Miami","Missouri",93,12
+"104",2002,1,6,66,"Gonzaga","Wyoming",73,11
+"105",2002,1,5,69,"Marquette","Tulsa",71,12
+"106",2002,1,6,68,"Texas Tech","Southern Illinois",76,11
+"107",2002,1,5,82,"Florida","Creighton",83,12
+"108",2003,1,4,71,"Dayton","Tulsa",84,13
+"109",2003,1,6,73,"Creighton","Central Michigan",79,11
+"110",2003,1,7,71,"Memphis","Arizona St",84,10
+"111",2003,1,5,46,"Mississippi St","Butler",47,12
+"112",2003,1,7,63,"St Josephs","Auburn",65,10
+"113",2004,1,5,58,"Providence","Pacific",66,12
+"114",2004,1,7,66,"Michigan St","Nevada",72,10
+"115",2004,1,5,60,"Florida","Manhattan",75,12
+"116",2005,1,5,73,"Alabama","Wisconsin Milwaukee",83,12
+"117",2005,1,6,68,"LSU","UAB",82,11
+"118",2005,1,3,63,"Kansas","Bucknell",64,14
+"119",2005,1,7,63,"Charlotte","NC State",75,10
+"120",2005,1,4,57,"Syracuse","Vermont",60,13
+"121",2006,1,3,63,"Iowa","Northwestern St",64,14
+"122",2006,1,5,58,"Syracuse","Texas A&M",66,12
+"123",2006,1,7,52,"California","NC State",58,10
+"124",2006,1,4,73,"Kansas","Bradley",77,13
+"125",2006,1,7,85,"Marquette","Alabama",90,10
+"126",2006,1,6,65,"Michigan St","George Mason",75,11
+"127",2006,1,5,79,"Nevada","Montana",87,12
+"128",2006,1,6,74,"Oklahoma","Wisconsin Milwaukee",82,11
+"129",2007,1,6,64,"Notre Dame","Winthrop",74,11
+"130",2007,1,6,77,"Duke","VCU",79,11
+"131",2008,1,4,62,"Vanderbilt","Siena",83,13
+"132",2008,1,5,69,"Clemson","Villanova",75,12
+"133",2008,1,6,67,"USC","Kansas St",80,11
+"134",2008,1,7,76,"Gonzaga","Davidson",82,10
+"135",2008,1,4,69,"Connecticut","San Diego",70,13
+"136",2008,1,5,99,"Drake","Western Kentucky",101,12
+"137",2009,1,4,69,"Wake Forest","Cleveland St",84,13
+"138",2009,1,5,71,"Utah","Arizona",84,12
+"139",2009,1,6,60,"West Virginia","Dayton",68,11
+"140",2009,1,7,55,"Boston College","USC",72,10
+"141",2009,1,7,71,"California","Maryland",84,10
+"142",2009,1,5,59,"Florida St","Wisconsin",61,12
+"143",2009,1,5,72,"Illinois","Western Kentucky",76,12
+"144",2009,1,7,59,"Clemson","Michigan",62,10
+"145",2010,1,3,83,"Georgetown","Ohio",97,14
+"146",2010,1,7,59,"Oklahoma St","Georgia Tech",64,10
+"147",2010,1,4,65,"Vanderbilt","Murray St",66,13
+"148",2010,1,5,65,"Temple","Cornell",78,12
+"149",2010,1,6,78,"Marquette","Washington",80,11
+"150",2010,1,7,78,"Clemson","Missouri",86,10
+"151",2010,1,6,50,"Notre Dame","Old Dominion",51,11
+"152",2010,1,7,71,"Richmond","St Marys",80,10
+"153",2011,1,6,55,"Xavier","Marquette",66,11
+"154",2011,1,4,61,"Louisville","Morehead St",62,13
+"155",2011,1,5,66,"Vanderbilt","Richmond",69,12
+"156",2011,1,6,56,"Georgetown","VCU",74,11
+"157",2011,1,7,50,"Texas A&M","Florida St",57,10
+"158",2011,1,6,71,"St Johns","Gonzaga",86,11
+"159",2012,1,2,70,"Duke","Lehigh",75,15
+"160",2012,1,5,59,"Wichita St","VCU",62,12
+"161",2012,1,6,64,"UNLV","Colorado",68,11
+"162",2012,1,7,63,"Notre Dame","Xavier",67,10
+"163",2012,1,2,84,"Missouri","Norfolk St",86,15
+"164",2012,1,4,60,"Michigan","Ohio",65,13
+"165",2012,1,5,44,"Temple","South Florida",58,12
+"166",2012,1,6,65,"San Diego St","NC State",79,11
+"167",2012,1,7,69,"St Marys","Purdue",72,10
+"168",2013,1,5,55,"Oklahoma St","Oregon",68,12
+"169",2013,1,3,62,"New Mexico","Harvard",68,14
+"170",2013,1,4,61,"Kansas St","La Salle",63,13
+"171",2013,1,5,46,"Wisconsin","Ole Miss",57,12
+"172",2013,1,7,58,"Notre Dame","Iowa St",76,10
+"173",2013,1,2,68,"Georgetown","Florida Gulf Coast",78,15
+"174",2013,1,6,63,"UCLA","Minnesota",83,11
+"175",2013,1,5,61,"UNLV","California",64,12
+"176",2014,1,5,75,"VCU","Stephen F Austin",77,12
+"177",2014,1,6,59,"Ohio St","Dayton",60,11
+"178",2014,1,7,53,"New Mexico","Stanford",58,10
+"179",2014,1,5,57,"Cincinnati","Harvard",61,12
+"180",2014,1,5,75,"Oklahoma","North Dakota St",80,12
+"181",2014,1,3,71,"Duke","Mercer",78,14
+"182",2014,1,6,67,"Massachusetts","Tennessee",86,11
+"183",2015,1,3,56,"Baylor","Georgia St",57,14
+"184",2015,1,7,72,"VCU","Ohio St",75,10
+"185",2015,1,6,53,"Providence","Dayton",66,11
+"186",2015,1,3,59,"Iowa St","UAB",60,14
+"187",2015,1,6,59,"SMU","UCLA",60,11
+"188",2016,1,4,66,"California","Hawaii",77,13
+"189",2016,1,6,55,"Arizona","Wichita St",65,11
+"190",2016,1,5,75,"Baylor","Yale",79,12
+"191",2016,1,6,72,"Texas","Northern Iowa",75,11
+"192",2016,1,7,67,"Oregon St","VCU",75,10
+"193",2016,1,3,56,"West Virginia","Stephen F Austin",70,14
+"194",2016,1,2,81,"Michigan St","Middle Tennessee St",90,15
+"195",2016,1,5,83,"Purdue","Arkansas Little Rock",85,12
+"196",2016,1,6,52,"Seton Hall","Gonzaga",68,11
+"197",2016,1,7,51,"Dayton","Syracuse",70,10
+"198",2017,1,6,65,"SMU","USC",66,11
+"199",2017,1,6,65,"Maryland","Xavier",76,11
+"200",2017,1,6,72,"Creighton","Rhode Island",84,11
+"201",2017,1,5,72,"Minnesota","Middle Tennessee St",81,12
+"202",2017,1,7,58,"Dayton","Wichita St",64,10
+"203",2018,1,1,54,"Virginia","UMBC",74,16
+"204",2018,1,4,68,"Arizona","Buffalo",89,13
+"205",2018,1,6,62,"Miami","Loyola Chicago",64,11
+"206",2018,1,4,75,"Wichita St","Marshall",81,13
+"207",2018,1,7,62,"Arkansas","Butler",79,10
+"208",2018,1,6,52,"TCU","Syracuse",57,11
+"209",2019,1,5,76,"Mississippi St","Liberty",80,12
+"210",2019,1,7,76,"Louisville","Minnesota",86,10
+"211",2019,1,5,64,"Marquette","Murray St",83,12
+"212",2019,1,7,61,"Nevada","Florida",70,10
+"213",2019,1,4,64,"Kansas St","UC Irvine",70,13
+"214",2019,1,5,54,"Wisconsin","Oregon",72,12
+"215",2019,1,7,72,"Cincinnati","Iowa",79,10
+"216",2019,1,6,59,"Iowa St","Ohio St",62,11
+"217",2021,1,2,72,"Ohio State","Oral Roberts",75,15
+"218",2021,1,3,52,"Texas","Abilene Christian",53,14
+"219",2021,1,4,58,"Virginia","Ohio",62,13
+"220",2021,1,4,69,"Purdue","North Texas",78,13
+"221",2021,1,5,56,"Tennessee","Oregon St",70,12
+"222",2021,1,6,62,"BYU","UCLA",73,11
+"223",2021,1,6,62,"San Diego St","Syracuse",78,11
+"224",2021,1,7,54,"Connecticut","Maryland",63,10
+"225",2021,1,7,56,"Clemson","Rutgers",60,10
